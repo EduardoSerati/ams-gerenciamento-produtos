@@ -3,3 +3,5 @@ Projeto de gerenciamento de produtos da Programmers's
 
 #Comandos do GIT#
 git init = Inicializar o git
+git remote add = Adicionar o git
+
